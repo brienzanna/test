@@ -1,0 +1,45 @@
+body{
+    margin: 0 px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: 400;
+    text-align: 0px;
+
+}
+
+h1, h2 {
+    font-weight: 600;
+}
+nav ul li {
+    display: inline-block;
+}
+
+#homeimg {
+    height: 400px;
+    width: auto;
+}
+
+
+header {
+    background-color: #A967F0;
+    color: #fff;
+}
+
+header, section {
+    padding: 5% 5% 0px 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.whitelink {
+    color: #fff;
+}
+
+.active {
+    color: #A967F0;
+    background-color: #fff;
+    border-radius: 0px 3px 0px 0px; 
+}
+
+.noununderline {
+    text-decoration: none;
+    padding: 10px 10px 0px 10px;
+}
